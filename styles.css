@@ -9,3 +9,8 @@ img {
     height: auto;
     width: 400px;
 }
+
+.section {
+    color: white;
+    background-color: black;
+}
